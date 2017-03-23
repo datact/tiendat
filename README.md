@@ -1,0 +1,2 @@
+# tiendat
+thực tập VCCORP
